@@ -9,6 +9,8 @@ Arrest.....
 Normal Activity
 The model can be integrated into real-time video surveillance systems to enhance security by automatically detecting unusual activities.
 
+
+
 📁 Project Structure
 bash
 Copy code
@@ -18,6 +20,11 @@ Copy code
 ├── src/                 # Python scripts for training and evaluation
 ├── README.md            # Project documentation
 └── requirements.txt     # Python dependencies
+
+
+
+
+
 ⚙️ Installation
 Clone the Repository:
 bash

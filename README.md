@@ -27,29 +27,24 @@ Copy code
 
 ⚙️ Installation
 Clone the Repository:
-bash
-Copy code
+
 git clone https://github.com/rohinipitta/Capstone_project-Anomaly-Detection-in-Video-Surveillance-Using-Deep-Learning-.git
 Navigate to the Project Directory:
-bash
-Copy code
+
+
 cd Capstone_project-Anomaly-Detection-in-Video-Surveillance-Using-Deep-Learning-
 Install the Dependencies:
-bash
-Copy code
+
 pip install -r requirements.txt
 🏃‍♂️ Usage
 Run the Training Script:
-bash
-Copy code
+
 python src/train_model.py
 Evaluate the Model:
-bash
-Copy code
+
 python src/evaluate_model.py
 Inference on New Data: Place your video frames in the data/ folder and run:
-bash
-Copy code
+
 python src/inference.py
 📊 Results
 Test Accuracy: 99.72%
